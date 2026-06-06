@@ -4,7 +4,7 @@ Object-oriented implementation of the classic Snake game developed in C++, using
 # Gameplay
 The GIF below demonstrates the completed game, including player movement, snake growth, food collection, score tracking, and collision detection.
 
-![Gameplay Demo](images/gameplay.gif)
+![Gameplay Demo](images/Gameplay.gif)
 
 # Features
 - Real-time keyboard controls (W, A, S, D)
@@ -15,12 +15,12 @@ The GIF below demonstrates the completed game, including player movement, snake 
 - Modular object-oriented design
 
 # Project Structure
-📍 Project — Main game loop and overall program flow.
-📍 Player — Handles snake movement, growth, and direction updates.
-📍 Food — Generates and manages food placement and special items.
-📍 GameMechs — Controls game state, scoring, and input management.
-📍 objPos / objPosArrayList — Custom classes used to store and manipulate game object positions.
-📍 MacUILib — Console rendering and keyboard input interface.
+- 📍 Project — Main game loop and overall program flow.
+- 📍 Player — Handles snake movement, growth, and direction updates.
+- 📍 Food — Generates and manages food placement and special items.
+- 📍 GameMechs — Controls game state, scoring, and input management.
+- 📍 objPos / objPosArrayList — Custom classes used to store and manipulate game object positions.
+- 📍 MacUILib — Console rendering and keyboard input interface.
 
 # Concepts Demonstrated
 - Object-Oriented Programming (OOP)
